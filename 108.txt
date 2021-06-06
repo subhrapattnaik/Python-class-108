@@ -1,0 +1,39 @@
+plots different kinds of data to identify patterns 
+in how the data is distributed
+
+introduce to normal distribution
+and its omni presence in the nature..(present everywhere)
+
+
+-->student plots data from random dice throws
+-->student identifies the bell curve pattern in the data
+-->student plots other kinds of data and identifies the similar patterns (bell curve)
+
+
+all these data could have a pattern(a pattern universally true
+for almost all kinds of data)
+
+
+teacher activity-1
+roll the dice(there are two dice)
+again and again 
+
+record the different sums we get on a file
+
+8
+3
+2
+....
+9
+
+suppose we do it for 100 times, do you think there will be a pattern.
+-------------------------------------------
+so,let's write a python program which randomly generates two numbers between 1 to 6
+for two different dice and adds them up
+
+-->random module in python helps to generate random numbers
+
+random.randint()--generate random numbers
+
+
+
